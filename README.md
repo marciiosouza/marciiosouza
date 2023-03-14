@@ -7,6 +7,13 @@
 
 ##
 
+Tenho mais de 8 anos de experiência como Profissional na área de Web Design. Durante este período, 
+minha principal responsabilidade tem sido o desenvolvimento de projetos para sites, blogs, sistemas 
+e aplicativos para web, além de peças digitais para mídias sociais. Atualmente, estou focado na criação 
+de protótipos funcionais utilizando as melhores práticas de UI/UX Design.
+
+##
+
 
 
 > Linguagens em Desenvolvimento
@@ -22,7 +29,7 @@
   
  </div>
 
-##
+
 
 <div>
     <a href="https://github.com/marciiosouza">
