@@ -19,19 +19,6 @@ de protótipos funcionais utilizando as melhores práticas de UI/UX Design.
 > Linguagens em Desenvolvimento
 
 <div>
-  
-  [![Marcio Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-
-  
-  
-
-  
- </div>
-
-
-
-<div>
     <a href="https://github.com/marciiosouza">
     <img height="30em" alt="Marcio-Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     <img height="30em" alt="Marcio-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
