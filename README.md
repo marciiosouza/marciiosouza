@@ -1,4 +1,4 @@
-### Olá, Eu sou o Marcio 👨‍💻
+### Olá, 👨‍💻
 
 - 🧑‍🎓 Estudante | FIAP
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
@@ -7,10 +7,9 @@
 
 ##
 
-Tenho mais de 8 anos de experiência como Profissional na área de Web Design. Durante este período, 
-minha principal responsabilidade tem sido o desenvolvimento de projetos para sites, blogs, sistemas 
-e aplicativos para web, além de peças digitais para mídias sociais. Atualmente, estou focado na criação 
-de protótipos funcionais utilizando as melhores práticas de UI/UX Design.
+Sou Web Designer há 5 anos no mercado, especializado na criação de protótipos funcionais com base nas práticas de UX e UI Design. Tenho experiência de 1 ano em projetos de desenvolvimento utilizando HTML, CSS e Bootstrap, seguindo conteúdos da FIAP e Alura. Além disso, venho aprimorando meus conhecimentos em SQL, C# e Java.
+
+Atualmente, estou no 2º ano do curso de Análise e Desenvolvimento de Sistemas na FIAP.
 
 ##
 
