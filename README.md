@@ -1,4 +1,4 @@
-## Olá eu sou Marcio Souza, Desenvolvedor Full Starck! 👨‍💻
+## Olá eu sou Marcio Souza, Desenvolvedor Full Stack! 👨‍💻
 
 - 🧑‍🎓 Estudante | FIAP
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
