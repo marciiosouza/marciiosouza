@@ -1,50 +1,37 @@
-### Olá, 👨‍💻
+## Olá eu sou Marcio Souza, Desenvolvedor Full Starck! 👨‍💻
 
 - 🧑‍🎓 Estudante | FIAP
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
-- ➡️ Cursos Extra *Alura*
-- 🛠️ *UI e UX Design*
-
-##
-
-Sou Web Designer há 5 anos no mercado, especializado na criação de protótipos funcionais com base nas práticas de UX e UI Design. Tenho experiência de 1 ano em projetos de desenvolvimento utilizando HTML, CSS e Bootstrap, seguindo conteúdos da FIAP e Alura. Além disso, venho aprimorando meus conhecimentos em SQL, C# e Java.
-
-Atualmente, estou no 2º ano do curso de Análise e Desenvolvimento de Sistemas na FIAP.
-
-##
-
-
-
-> Linguagens em Desenvolvimento
-
-<div>
-    <a href="https://github.com/marciiosouza">
-    <img height="30em" alt="Marcio-Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-    <img height="30em" alt="Marcio-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img height="30em" alt="Marcio-html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img height="30em" alt="Marcio-css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img height="30em" alt="Marcio-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    
-</div>
-
-##
-
-> Midia Social
-
-<div>
-    <a href="https://www.linkedin.com/in/marciiosouza/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href="https://instagram.com/marciiosouz/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href="https://www.behance.net/marciiosouza"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
-    
-</div>
-
-##
-
-  <div> 
   
+##
+Eu sou um Web Designer com 5 anos de experiência no mercado, focado 
+na criação de protótipos funcionais seguindo as melhores práticas de 
+UX e UI Design. Tenho um ano de experiência em projetos de desenvolvimento
 
- 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Marcio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Marcio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">    
+  <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
+  <img align="center" alt="Marcio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  
+</div> 
+
+#
+<div>
+    <a href="https://www.linkedin.com/in/marciiosouza/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <a href="https://instagram.com/marciiosouz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <a href="https://www.behance.net/marciiosouza" target="_blank"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
+    <a href="mailto:marciiosouza@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+     <a href="https://discord.gg/G5YksA5W" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    
+</div>
+
+<div>
+    
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
