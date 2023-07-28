@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6896e6&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Marcio+Souza;I'm+26+years+old;I'm+from+Brazil;I'm+a+Developer+Full+Stack+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
+### Olá eu sou Marcio Souza, Desenvolvedor Full Stack! 👨‍💻
 
-
-## Olá eu sou Marcio Souza, Desenvolvedor Full Stack! 👨‍💻
+#
 
 - 🧑‍🎓 Estudante | FIAP
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
@@ -32,9 +31,4 @@ UX e UI Design. Tenho um ano de experiência em projetos de desenvolvimento
     <a href="mailto:marciiosouza@outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
      <a href="https://discord.gg/G5YksA5W" target="_blank"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     
-</div>
-
-<div>
-    
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
