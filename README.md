@@ -4,8 +4,6 @@
 Sou um apaixonado(a) pelo mundo da tecnologia e, nos últimos cinco anos, tenho trilhado uma jornada incrível como Web Designer. <br>
 Ao longo dessa caminhada, pude mergulhar fundo no universo do desenvolvimento web, explorando as maravilhas da criação visual e funcional de interfaces que cativam e encantam.
 
-:octocat: Neste GitHub, você encontrará projetos que refletem minha paixão e dedicação ao mundo do design e desenvolvimento web. Fique à vontade para explorar, colaborar e deixar suas sugestões! Acredito que a aprendizagem contínua e a abertura para novas ideias são fundamentais para o crescimento profissional e pessoal.
-
 ### :computer: Skills 
 
 <div style="display: inline_block"><br>
