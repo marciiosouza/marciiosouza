@@ -4,8 +4,6 @@
 Sou um apaixonado(a) pelo mundo da tecnologia e, nos últimos cinco anos, tenho trilhado uma jornada incrível como Web Designer. <br>
 Ao longo dessa caminhada, pude mergulhar fundo no universo do desenvolvimento web, explorando as maravilhas da criação visual e funcional de interfaces que cativam e encantam.
 
-### :computer: Skills 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
