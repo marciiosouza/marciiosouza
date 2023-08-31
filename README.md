@@ -1,6 +1,6 @@
 <!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg) -->
 
-<img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile_t.svg"/>
+<img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile.svg"/>
 <h1 align="left">👋 Bem-vindo(a) <br/> ao meu perfil do GitHub! <br/></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciiosouza&color=22FDBB" alt="Profile views" /> </p>
 
