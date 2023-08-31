@@ -1,5 +1,6 @@
 <img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile.svg"/>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg)
 
 ### 👋 Bem-vindo(a) ao meu perfil do GitHub! <br/>
 
