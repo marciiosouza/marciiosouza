@@ -2,12 +2,12 @@
 
 ### 👋 Bem-vindo(a) ao meu perfil do GitHub! <br/>
 
-🧑🏻‍💻| Developer Full Stack <br/>
-💡| UI & Figma <br/>
-🧠 | I'm currently specializing in Figma & Kotlin <br />
-🎓 | Systems Analysis and Development Student at FIAP
+🧑🏻‍💻 | Desenvolvedor Full Stack <br/>
+💡 | UI e Figma <br/>
+🧠 | Atualmente estou me especializando em Figma e Kotlin <br/>
+🎓 | Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-### -> Sou apaixonado por tecnologia!
+### ➡️ Sou apaixonado por tecnologia!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
