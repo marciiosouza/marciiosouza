@@ -1,7 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg)
-<img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile.svg"/>
+<!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg) -->
 
-### 👋 Bem-vindo(a) ao meu perfil do GitHub! <br/>
+<img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile_t.svg"/>
+<h1 align="left">👋 Bem-vindo(a) <br/> ao meu perfil do GitHub! <br/></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marciiosouza&color=22FDBB" alt="Profile views" /> </p>
+
+### 
 
 🧑🏻‍💻 | Desenvolvedor Full Stack <br/>
 💡 | UI e Figma <br/>
@@ -9,6 +12,9 @@
 🎓 | Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
 ### ➡️ Sou apaixonado por tecnologia!
+
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
