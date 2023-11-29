@@ -1,31 +1,36 @@
 <!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg) -->
 
-<img align="right" height="590em" src="https://marciosouza.net.br/github/card-profile.svg"/>
-<h1 align="left">👋 Bem-vindo(a) <br/> ao meu perfil do GitHub! <br/></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marciiosouza&color=22FDBB" alt="Profile views" /> </p>
+<h2 align="left" height="10em">👋 Bem-vindo(a) ao meu perfil do GitHub!</h2>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciiosouza&color=22FDBB" alt="Profile views" /> </p> -->
 
 ### 
 
-🧑🏻‍💻 | Desenvolvedor Full Stack <br/>
-💡 | UI e Figma <br/>
-🧠 | Atualmente estou me especializando em Figma e Kotlin <br/>
-🎓 | Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+<p>
+  Desenvolvedor Fullstack apaixonado por tecnologia. 🚀 <br>
+  Habilidades técnicas sólidas e uma paixão pela excelência em design.
+</p>
 
-### ➡️ Sou apaixonado por tecnologia!
+🧑🏻‍💻 Desenvolvedor Full Stack <br/>
+💡 UI e Figma <br/>
+🧠 Atualmente estou me especializando em Figma e Kotlin <br/>
+🎓 Recém formado em Análise e Desenvolvimento de Sistemas na FIAP
 
+###
 
+## 🚀 Minhas Skills
+<div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img align="left" height="35em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,kotlin," />
+  </a>
 
+   <a href="https://skillicons.dev">
+    <img  align="left" height="35em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
+  </a>
+</p>
+</div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Marcio-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Marcio-css3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Marcio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Marcio-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  
-</div> 
-
-# 
+###
 
 <div>
     <a href="https://www.linkedin.com/in/marciiosouza/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
