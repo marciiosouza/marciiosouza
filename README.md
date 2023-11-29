@@ -18,22 +18,21 @@
 ###
 
 ## 🚀 Minhas Skills
-<div>
-<p align="left">
   <a href="https://skillicons.dev">
     <img align="left" height="35em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,kotlin," />
+     <img  align="left" height="35em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git," /> <br>
   </a>
-
-   <a href="https://skillicons.dev">
-    <img  align="left" height="35em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git," />
-  </a>
-</p>
-</div>
 
 ###
+
+## 📱 Mídias
 
 <div>
     <a href="https://www.linkedin.com/in/marciiosouza/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="https://instagram.com/marciiosouz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href="https://www.behance.net/marciiosouza" target="_blank"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">    
+    <a href="https://www.behance.net/marciiosouza" target="_blank"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">    
 </div>
+
+
+
+
