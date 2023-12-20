@@ -1,20 +1,26 @@
 ![](https://komarev.com/ghpvc/?username=marciiosouza&color=006bed)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=marciiosouza&show_icons=true&title_color=22FDBB&text_color=ffffff&icon_color=22FDBB&bg_color=0D1117&cache_seconds=2300" alt="ilustração do status do github">
+## Hello, Devs!! 👋
+### O meu nome é Marcio Souza, Seja bem-vindo ao meu perfil GitHub. 
 
-### Desenvolvedor Fullstack apaixonado por tecnologia. 🚀 Habilidades técnicas sólidas e uma paixão pela excelência em design.
+- 🔰 Sou de São Paulo/SP, Brasil
+- 🚀 Apaixonado por Música e Tecnologia
+- 🧠 Sou formado recdentimente em Análise e Desenvolvimento de Sistemas
+  
+***<p style="color:#22FDBB">Full Stack Developer & UI Figma</p>***
 
-<br>
+Sou um profissional apaixonado por tecnologia, com 5 anos de experiência como Web Designer, especializado na criação de protótipos funcionais com foco em UX e UI Design.
 
-<p align="left"> 🦄 Linguagens: </p>
+
+
+### <p> 🦄 Linguagens: </p>
  <a href="https://skillicons.dev">
     <img align="left" height="28em" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,kotlin,java" />
   </a>
 
 <br>
-<br>
 
-<p align="left"> 💼 Ferramentas: </p>
+### <p> 💼 Ferramentas: </p>
   <a href="https://skillicons.dev">
      <img  align="left" height="28em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git,postman,androidstudio" /> <br>
   </a>
@@ -22,7 +28,7 @@
 <br>
 <br>
 
-<p align="left">
+<p>
   💌 Para mais informações: ⤵️
 </p>
 
@@ -33,3 +39,4 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/marciiosouz" alt="Instagram"/></a>
 </p> 
+
