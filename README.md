@@ -1,38 +1,35 @@
-<!-- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&size=35&color=22FDBB&width=550&height=100&lines=Hey+Devs,+Sejam+Bem-vindos!)](https://git.io/typing-svg) -->
+![](https://komarev.com/ghpvc/?username=marciiosouza&color=006bed)
 
-<h2 align="left" height="10em">👋 Bem-vindo(a) ao meu perfil do GitHub!</h2>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=marciiosouza&color=22FDBB" alt="Profile views" /> </p> -->
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=marciiosouza&show_icons=true&title_color=22FDBB&text_color=ffffff&icon_color=22FDBB&bg_color=0D1117&cache_seconds=2300" alt="ilustração do status do github">
 
-### 
+### Desenvolvedor Fullstack apaixonado por tecnologia. 🚀 Habilidades técnicas sólidas e uma paixão pela excelência em design.
 
-<p>
-  Desenvolvedor Fullstack apaixonado por tecnologia. 🚀 <br>
-  Habilidades técnicas sólidas e uma paixão pela excelência em design.
-</p>
+<br>
 
-🧑🏻‍💻 Desenvolvedor Full Stack <br/>
-💡 UI e Figma <br/>
-🧠 Atualmente estou me especializando em Figma e Kotlin <br/>
-🎓 Recém formado em Análise e Desenvolvimento de Sistemas na FIAP
-
-###
-
-## 🚀 Minhas Skills
-  <a href="https://skillicons.dev">
-    <img align="left" height="35em" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,tailwind,sass,kotlin," />
-     <img  align="left" height="35em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git," /> <br>
+<p align="left"> 🦄 Linguagens: </p>
+ <a href="https://skillicons.dev">
+    <img align="left" height="28em" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,kotlin,java" />
   </a>
 
-###
+<br>
+<br>
 
-## 📱 Mídias
+<p align="left"> 💼 Ferramentas: </p>
+  <a href="https://skillicons.dev">
+     <img  align="left" height="28em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git,postman,androidstudio" /> <br>
+  </a>
 
-<div>
-    <a href="https://www.linkedin.com/in/marciiosouza/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href="https://instagram.com/marciiosouz/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <a href="https://www.behance.net/marciiosouza" target="_blank"> <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">    
-</div>
+<br>
+<br>
 
+<p align="left">
+  💌 Para mais informações: ⤵️
+</p>
 
+<p align="left">
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciiosouza" alt="LinkedIn"/></a>
 
-
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/marciiosouz" alt="Instagram"/></a>
+</p> 
