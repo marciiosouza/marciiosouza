@@ -5,11 +5,12 @@
 
 - 🔰 Sou de São Paulo/SP, Brasil
 - 🚀 Apaixonado por Música e Tecnologia
-- 🧠 Sou formado recdentimente em Análise e Desenvolvimento de Sistemas
+- 🧠 Sou formado recentimente em Análise e Desenvolvimento de Sistemas
   
-***<p style="color:#22FDBB">Full Stack Developer & UI Figma</p>***
+***<p style="color:#22FDBB">FullStack Developer & UI Figma</p>***
 
-Sou um profissional apaixonado por tecnologia, com 5 anos de experiência como Web Designer, especializado na criação de protótipos funcionais com foco em UX e UI Design.
+Sou um profissional apaixonado por tecnologia, com 5 anos de experiência como Web Designer, <br>
+especializado na criação de protótipos funcionais com foco em UX e UI Design.
 
 
 
