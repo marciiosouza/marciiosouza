@@ -13,22 +13,6 @@ Sou um profissional apaixonado por tecnologia, com 5 anos de experiência como W
 especializado na criação de protótipos funcionais com foco em UX e UI Design.
 
 
-
-### <p> 🦄 Linguagens: </p>
- <a href="https://skillicons.dev">
-    <img align="left" height="28em" src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,kotlin,java" />
-  </a>
-
-<br>
-
-### <p> 💼 Ferramentas: </p>
-  <a href="https://skillicons.dev">
-     <img  align="left" height="28em" src="https://skillicons.dev/icons?i=vscode,ps,figma,git,postman,androidstudio" /> <br>
-  </a>
-
-<br>
-<br>
-
 <p>
   💌 Para mais informações: ⤵️
 </p>
