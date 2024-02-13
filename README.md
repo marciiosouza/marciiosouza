@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=marciiosouza&color=006bed)
-
 ## Hello, Devs!! 👋
 ### O meu nome é Marcio Souza, Seja bem-vindo ao meu perfil GitHub. 
 
