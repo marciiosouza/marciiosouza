@@ -1,4 +1,4 @@
-<h2 align="left">Marcio Souza</h2>
+<h2 align="left">Hi, I'm Marcio <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h2>
 
 ###
 
