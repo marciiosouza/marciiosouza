@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Frontend Developer and UI/UX Designer</h4>
+<h3 align="left">Front-End Developer and UI/UX Designer</h3>
 
 ###
 
