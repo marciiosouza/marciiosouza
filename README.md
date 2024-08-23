@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Front-End Developer and UI & UX Designer</h3>
+<h3 align="left">Front-End Developer and UI Designe</h3>
 
 ###
 
-<p align="left">I am a dedicated professional with over 5 years of experience as a Web Designer, specializing in creating functional prototypes with a strong focus on user experience (UX) and interface design (UI). Recently, I expanded my skill set by completing a degree in Systems Analysis and Development, which has enabled me to excel as a front-end developer. I specialize in building modern and efficient solutions using technologies like React, Next.js, and TypeScript.<br><br>Currently, I am focused on developing the Ireland Classifieds platform, where I utilize advanced technologies such as Tailwind CSS, Shadcn, and Prisma to create intuitive and high-performance user interfaces. My career seamlessly blends design expertise with technical proficiency, allowing me to deliver exceptional digital experiences that combine functionality with aesthetic appeal.</p>
+<p align="left">I have a degree in Systems Analysis and Development from FIAP, with experience in UI Design and Front-End development. I have knowledge in JavaScript, React, TypeScript, Next.js, HTML, CSS, SASS and Styled Components. I have experience as a freelancer in Front-End development, focusing on responsive web and mobile-first approaches to create efficient and adaptable interfaces.</p>
 
 ###
 
