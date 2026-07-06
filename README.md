@@ -1,12 +1,10 @@
-# Marcio Souza
+# Olá, eu sou o Marcio Souza! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-marciiosouza-8257E5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciiosouza/)](https://www.linkedin.com/in/marciiosouza/)
 [![Gmail Badge](https://img.shields.io/badge/-marciiosouza@gmail.com-8257E5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciiosouza@gmail.com)](mailto:marciiosouza@gmail.com)
 
 
-Desenvolvedor Front-End focado na construção de aplicações web modernas, escaláveis e de alta performance.
+Desenvolvedor Front-End graduado em Análise e Desenvolvimento de Sistemas pela FIAP e especializado em engenharia web avançada pela Rocketseat. Atuo com foco na construção de aplicações escaláveis, performáticas e orientadas à melhor experiência do usuário.
 
-Front-End Developer focused on building modern, scalable, and high-performance web applications.
-
-Passionate about creating intuitive user interfaces and delivering real digital experiences through clean code and solid architecture. Experienced in developing responsive and mobile-first applications, always aiming for performance, usability, and scalability.
+Especialista no ecossistema React, Next.js (App Router) e TypeScript, aplicando boas práticas de arquitetura de software, componentização reutilizável e gerenciamento eficiente de dados assíncronos.
 
