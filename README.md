@@ -4,7 +4,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-marciiosouza@gmail.com-8257E5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciiosouza@gmail.com)](mailto:marciiosouza@gmail.com)
 
 
-Desenvolvedor Front-End graduado em Análise e Desenvolvimento de Sistemas pela FIAP e especializado em engenharia web avançada pela Rocketseat. Atuo com foco na construção de aplicações escaláveis, performáticas e orientadas à melhor experiência do usuário.
+Nos últimos anos, tenho focado no desenvolvimento de aplicações web modernas, combinando alta velocidade de carregamento com ótimas experiências de navegação. Busco novas oportunidades como Engenheiro Front-End para aplicar minha expertise em projetos desafiadores, criando produtos digitais que unam design impecável e excelente performance.
 
-Especialista no ecossistema React, Next.js (App Router) e TypeScript, aplicando boas práticas de arquitetura de software, componentização reutilizável e gerenciamento eficiente de dados assíncronos.
+Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP, com sólida experiência no ecossistema Front-End, utilizando principalmente React, Next.js e TypeScript. Meu grande diferencial é ter uma visão completa do desenvolvimento: possuo atuação complementar em Full Stack para a construção de APIs com Node.js e amplo conhecimento na integração de Inteligência Artificial. Uso a IA de forma estratégica no meu dia a dia para otimizar o código e automatizar processos, o que acelera a entrega de novos recursos.
+
+Como especialista em interfaces responsivas e mobile-first, meu foco está em construir códigos limpos, organizados e fáceis de manter, sempre priorizando a experiência do usuário final. 
 
