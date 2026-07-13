@@ -4,9 +4,72 @@
 [![Gmail Badge](https://img.shields.io/badge/-marciiosouza@gmail.com-8257E5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciiosouza@gmail.com)](mailto:marciiosouza@gmail.com)
 
 
-Nos últimos anos, tenho focado no desenvolvimento de aplicações web modernas, combinando alta velocidade de carregamento com ótimas experiências de navegação. Busco novas oportunidades como Engenheiro Front-End para aplicar minha expertise em projetos desafiadores, criando produtos digitais que unam design impecável e excelente performance.
+**Engenheiro de Software | Desenvolvedor Front-End | React.js • Next.js • TypeScript**
 
-Sou graduado em Análise e Desenvolvimento de Sistemas pela FIAP, com sólida experiência no ecossistema Front-End, utilizando principalmente React, Next.js e TypeScript. Meu grande diferencial é ter uma visão completa do desenvolvimento: possuo atuação complementar em Full Stack para a construção de APIs com Node.js e amplo conhecimento na integração de Inteligência Artificial. Uso a IA de forma estratégica no meu dia a dia para otimizar o código e automatizar processos, o que acelera a entrega de novos recursos.
+Desenvolvo aplicações web modernas, escaláveis e de alta performance, unindo Engenharia de Software, arquitetura Front-End e experiência do usuário para criar produtos digitais de qualidade.
 
-Como especialista em interfaces responsivas e mobile-first, meu foco está em construir códigos limpos, organizados e fáceis de manter, sempre priorizando a experiência do usuário final. 
+Sou graduado em **Análise e Desenvolvimento de Sistemas pela FIAP** e possuo mais de **5 anos de experiência** no desenvolvimento de soluções para os segmentos financeiro, ERP e produtos digitais. Minha principal atuação está no ecossistema **React.js**, **Next.js**, **TypeScript** e **Node.js**, desenvolvendo interfaces responsivas, acessíveis e integradas a APIs REST.
+
+Meu background em **UI/UX Design** me permite transformar protótipos do Figma em interfaces modernas com alta fidelidade visual, sempre priorizando performance, usabilidade e boas práticas de Engenharia de Software.
+
+Também utilizo **Inteligência Artificial** como parte do meu fluxo de desenvolvimento para acelerar entregas, automatizar tarefas repetitivas, otimizar código e apoiar decisões técnicas durante o desenvolvimento de software.
+
+---
+
+## Especialidades
+
+- Engenharia de Software
+- Desenvolvimento Front-End
+- Arquitetura Front-End
+- Desenvolvimento Full Stack
+- Desenvolvimento de Interfaces Responsivas
+- Performance e Otimização de Aplicações Web
+- Consumo e Integração de APIs REST
+- Design Systems
+- UI Engineering
+- UI/UX
+- Acessibilidade (WCAG)
+- Clean Code
+- SOLID
+- Componentização
+- Metodologias Ágeis (Scrum e Kanban)
+
+---
+
+## Tecnologias
+
+**Linguagens**
+
+JavaScript (ES6+), TypeScript, HTML5, CSS3 e Sass.
+
+**Front-End**
+
+React.js, Next.js, Vite, React Query (TanStack Query), Context API, React Router, TanStack Router, React Hook Form, Zod, Axios, Tailwind CSS, Material UI, Chakra UI e Ant Design.
+
+**Back-End**
+
+Node.js, Express.js, APIs REST e RESTful APIs.
+
+**Banco de Dados**
+
+MySQL e Oracle.
+
+**Cloud & DevOps**
+
+AWS EC2, Amazon S3, Amazon CloudFront, IAM, Security Groups, AWS CLI, AWS CodeCommit, Git, GitHub, Jenkins e CI/CD.
+
+**Ferramentas**
+
+Figma, Postman, VS Code, npm, Yarn, ESLint, Prettier, Photoshop, Illustrator e Premiere Pro.
+
+---
+
+## Atualmente
+
+- 🚀 Desenvolvendo aplicações modernas com React.js, Next.js e TypeScript.
+- ⚙️ Aprimorando conhecimentos em Arquitetura de Software e Cloud Computing.
+- 🤖 Explorando Inteligência Artificial aplicada ao desenvolvimento de software.
+- 📚 Sempre aprendendo novas tecnologias e boas práticas de engenharia.
+
+---
 
