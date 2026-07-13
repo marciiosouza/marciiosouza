@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcio Souza! 👋
+# Marcio Souza
 
 [![Linkedin Badge](https://img.shields.io/badge/-marciiosouza-8257E5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciiosouza/)](https://www.linkedin.com/in/marciiosouza/)
 [![Gmail Badge](https://img.shields.io/badge/-marciiosouza@gmail.com-8257E5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marciiosouza@gmail.com)](mailto:marciiosouza@gmail.com)
